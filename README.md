@@ -11,7 +11,7 @@ I am an AI engineer from Madrid, Spain.
   
 - :zap: Always looking for new job opportunities and challenges!.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-ara-adanez/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelaraadanez17@outlook.es) 
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-ara-adanez/) [![Email Badge](https://img.shields.io/badge/Outlook-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miguelaraadanez17@outlook.es) 
 
 ---
   
