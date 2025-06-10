@@ -5,7 +5,7 @@
 
 
 ### :man_technologist: About Me 
-I am an AI engineer from Madrid, Spain.
+I am a Math and AI engineer from Madrid, Spain.
 
 - 👯 Learning new skills in NLP and Deep Learning...
 
